@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Everstine
 - 👀 I’m interested in web development and cybersecurity
-- 🌱 I’m currently learning python for cybersecurty
+- 🌱 I’m currently learning python for cybersecurity
 - 💞️ I’m looking to collaborate on web development projects and cybersecurity related projects
 - 📫 How to reach me: reach me on twitter or instagram @bishop
 - 😄 Pronouns: ...
